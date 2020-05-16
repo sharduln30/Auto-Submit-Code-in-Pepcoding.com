@@ -1,0 +1,28 @@
+{
+    "questions": [
+        {
+            "path": "./codes/code1",
+            "module": "Getting Started",
+            "lecture": "Patterns",
+            "title": "Pattern 19"
+        },
+        {
+            "path": "./codes/code2",
+            "module": "Getting Started",
+            "lecture": "Patterns",
+            "title": "Pattern 18"
+        },
+        {
+            "path": "./codes/code3",
+            "module": "Getting Started",
+            "lecture": "Function and Arrays",
+            "title": "Any Base Multiplication"
+        },
+        {
+            "path": "./codes/code4",
+            "module": "Getting Started",
+            "lecture": "Function and Arrays",
+            "title": "Subsets Of Array"
+        }
+    ]
+}
